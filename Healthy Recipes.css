@@ -1,0 +1,56 @@
+
+section{
+  background-color: rgb(221, 214, 213);
+  border-radius: 2% 12% 30% 0%;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+img
+{ width: 300px;
+  height: auto;
+  border-radius: 20px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.para
+    {
+      font-size: 18px;
+    }
+    .para2
+    {
+      font-weight: bold;
+    }
+    .list li
+    {
+      list-style: square;
+    }
+    .Time
+    {
+      color: rgb(134, 131, 125);
+    }
+    h1,h2,p,li{
+      font-family: Helvetica;
+    }
+  .checked
+  {
+    color: yellow;
+  }
+  footer p{
+    text-align: center;
+  }
+  footer p img{
+    border: 1px solid black;
+    padding: 0px;
+    width: 30px;
+    height: 30px;
+    padding-top: 3px;
+  }
+  .name:hover p{
+    display: block;
+  }
+  .name p {
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+  }
+  
